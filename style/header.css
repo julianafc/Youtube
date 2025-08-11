@@ -1,0 +1,46 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 18px 24px;
+    vertical-align: middle;
+}
+
+header svg {
+    width: 24px;
+    height: 24px;
+}
+
+header div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#yt-nav {
+    gap: 32px;
+}
+
+#search-input,
+#searchbar button {
+    height: 32px;
+    border: 1px solid var(--cinza-claro);
+    fill: white;
+    padding: 5px;
+}
+
+#search-input {
+    min-width: 348px;
+}
+
+#user-settings {
+    gap: 24px;
+    vertical-align: middle;
+}
+
+#user-settings img {
+    width: 34px;
+    height: 34px;
+    border-radius: 56px;
+}
