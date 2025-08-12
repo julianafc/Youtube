@@ -1,0 +1,56 @@
+.flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: inline;
+    align-items: center;
+}
+
+.main-video {
+    padding: 16px 50px;
+    gap: 16px;
+}
+
+#video-img {
+    width: 100%;
+    max-width: 952px;
+}
+
+.main-video h2 {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.video-actions {
+    gap: 42px;
+}
+
+.main-video button {
+    padding: 12px 36px;
+    border: none;
+    border-radius: 2px;
+    background-color: var(--vermelho);
+    color: #fff;
+    cursor: pointer;
+}
+
+.main-video p {
+    font-size: 0.875rem;
+}
+
+.semi-bold {
+    font-weight: 600;
+}
+
+.gap-8 {
+    gap: 8px;
+}
+
+.gray {
+    color: var(--cinza);
+    width: 100%;
+    max-width: 510px;
+}
