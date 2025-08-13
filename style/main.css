@@ -1,21 +1,10 @@
 main {
     display: flex;
-}
-
-.flex {
-    display: flex;
-    flex-direction: column;
-}
-
-.flex-row {
-    display: flex;
-    flex-direction: inline;
-    align-items: center;
+    padding: 16px 0;
 }
 
 .main-video {
-    padding: 16px 50px;
-    gap: 16px;
+    padding: 0 50px;
 }
 
 #video-img {
@@ -30,6 +19,7 @@ main {
 
 .video-actions {
     gap: 42px;
+    white-space: nowrap;
 }
 
 .main-video button {
@@ -43,18 +33,4 @@ main {
 
 .main-video p {
     font-size: 0.875rem;
-}
-
-.semi-bold {
-    font-weight: 600;
-}
-
-.gap-8 {
-    gap: 8px;
-}
-
-.gray {
-    color: var(--cinza);
-    width: 100%;
-    max-width: 510px;
 }
