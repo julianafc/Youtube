@@ -1,6 +1,6 @@
-# 📺 Youtube DIO
+# 📺 Youtube - DIO
 
-Youtube DIO é uma página inspirada na interface do Youtube, criada para treinar habilidades de desenvolvimento frontend. O projeto simula uma plataforma de vídeos, trazendo elementos como barra de navegação, área de exibição de vídeos, avatar do canal e imagens personalizadas. O layout é moderno, responsivo e otimizado para diferentes dispositivos, proporcionando uma experiência agradável tanto em desktop quanto em mobile.
+Youtube - DIO é uma página inspirada na interface do Youtube, criada para treinar habilidades de desenvolvimento frontend. O projeto simula uma plataforma de vídeos, trazendo elementos como barra de navegação, área de exibição de vídeos, avatar do canal e imagens personalizadas. O layout é moderno, responsivo e otimizado para diferentes dispositivos, proporcionando uma experiência agradável tanto em desktop quanto em mobile.
 
 ## 📋 Funcionalidades
 
@@ -24,4 +24,7 @@ Youtube DIO é uma página inspirada na interface do Youtube, criada para treina
 
 ## 🖼️ Demonstração
 
-Acesse o projeto através deste link: [Youtube DIO](link)
+<img width="1360" height="945" alt="FireShot Capture 015 - Youtube -  127 0 0 1" src="https://github.com/user-attachments/assets/70324892-d689-41f7-afc8-b7bae3bb15a9" />
+
+
+Acesse o projeto através deste link: [Youtube - DIO](https://julianafc.github.io/Youtube_DIO/)
