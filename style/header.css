@@ -34,13 +34,12 @@ header div {
     transition: width 0.2s;
 }
 
-
 #search-input,
 #searchbar button {
     width: 100%;
     height: 32px;
     border: 1px solid var(--cinza-claro);
-    fill: white;
+    background: none;
     padding: 5px;
 }
 
